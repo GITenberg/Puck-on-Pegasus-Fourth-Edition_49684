@@ -1,0 +1,58 @@
+_repo: Puck-on-Pegasus-Fourth-Edition_49684
+contributor:
+  illustrators:
+  - agent_name: Leech, John
+    alias: Leech, J. (John)
+    birthdate: 1817
+    deathdate: 1864
+    gutenberg_agent_id: '9473'
+    url: http://www.gutenberg.org/2009/agents/9473
+    wikipedia: http://en.wikipedia.org/wiki/John_Leech_%28caricaturist%29
+  - agent_name: Tenniel, John
+    alias: Tenniel, Sir John
+    birthdate: 1820
+    deathdate: 1914
+    gutenberg_agent_id: '74'
+    url: http://www.gutenberg.org/2009/agents/74
+    wikipedia: http://en.wikipedia.org/wiki/John_Tenniel
+  - agent_name: Cruikshank, George
+    alias: Cruickshank, George
+    birthdate: 1792
+    deathdate: 1878
+    gutenberg_agent_id: '9068'
+    url: http://www.gutenberg.org/2009/agents/9068
+    wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+  - agent_name: Browne, Hablot Knight
+    aliases:
+    - Phiz
+    - Brown, Hablot K. (Hablot Knight)
+    - Browne, H. K. (Hablot Knight)
+    - Browne, Hablot K. (Hablot Knight)
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '24934'
+    url: http://www.gutenberg.org/2009/agents/24934
+    wikipedia: http://en.wikipedia.org/wiki/Hablot_Knight_Browne
+  - agent_name: Portch
+    gutenberg_agent_id: '45487'
+    url: http://www.gutenberg.org/2009/agents/45487
+creator:
+  author:
+    agent_name: Pennell, H. Cholmondeley
+    birthdate: 1837
+    deathdate: 1915
+    gutenberg_agent_id: '45486'
+    url: http://www.gutenberg.org/2009/agents/45486
+description: ''
+gutenberg_issued: '2015-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49684'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Puck on Pegasus
+
+  Fourth Edition'
+url: http://www.gutenberg.org/ebooks/49684
