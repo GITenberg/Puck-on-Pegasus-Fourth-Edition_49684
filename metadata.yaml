@@ -1,4 +1,5 @@
 _repo: Puck-on-Pegasus-Fourth-Edition_49684
+_version: 0.1.0
 contributor:
   illustrators:
   - agent_name: Leech, John
@@ -36,6 +37,9 @@ contributor:
   - agent_name: Portch
     gutenberg_agent_id: '45487'
     url: http://www.gutenberg.org/2009/agents/45487
+covers:
+- cover_type: archival
+  image_path: 49684-h/images/cover.jpg
 creator:
   author:
     agent_name: Pennell, H. Cholmondeley
@@ -44,6 +48,8 @@ creator:
     gutenberg_agent_id: '45486'
     url: http://www.gutenberg.org/2009/agents/45486
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49684#Puck-on-Pegasus-Fourth-Edition
 gutenberg_issued: '2015-08-11'
 gutenberg_type: Text
 identifiers:
